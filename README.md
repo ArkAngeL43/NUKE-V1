@@ -26,6 +26,13 @@ start tor service <br>
 stop tor service <br>
 runs proxychains with ddos <br>
 
------------------------------ installs --------------------------
-git clone 
+----------------------------- installs --------------------------<br>
+git clone https://github.com/ArkAngeL43/NUKE-V1.git <br>
+cd into NUKE-V1 <br>
+chmod +x ./install.sh && ./install.sh <br>
+sudo python3 main.py  <br>
+
+--------- Why sudo -----
+
+DDOS attacks and special agents require root 
 

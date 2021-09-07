@@ -17,3 +17,15 @@ SHELL Inject <br>
 Brute force login pages<br> 
 Hide you <br>
 and scrape every single domain<br> 
+
+---------------------- Other features ------------------
+
+log system information<br> 
+give live updates on system proceses<br> 
+start tor service <br>
+stop tor service <br>
+runs proxychains with ddos <br>
+
+----------------------------- installs --------------------------
+git clone 
+

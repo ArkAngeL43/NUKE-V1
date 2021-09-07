@@ -36,3 +36,11 @@ sudo python3 main.py  <br>
 
 DDOS attacks and special agents require root 
 
+ <br>
+--------------------------- LANGS USED ----------------------  <br>
+Ruby  <br>
+Shell  <br> 
+Perl <br>
+python3 <br>
+python2 <br>
+
